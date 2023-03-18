@@ -19,9 +19,11 @@ Default in financial systems indirectly impacts the country’s economy as banks
 #### _**Best Model : Ensemble Model 1**_
 
 
+
 * **ROC Curve**
 
 ![image](https://user-images.githubusercontent.com/70052374/226123745-6fd00b26-24fc-44ba-824a-ae18b52a35ab.png)
+
 
 
 
@@ -31,12 +33,14 @@ Default in financial systems indirectly impacts the country’s economy as banks
 
 
 
+
 * **Confusion Matrix**
 
 ![image](https://user-images.githubusercontent.com/70052374/226123804-b1b16d5e-751f-49c6-9583-6d22ea78b1f0.png)
 
 
 * Overall, our Ensemble Model 1 has performed well under the ROC with an AUC of **0.8094**, a misclassification rate of about **13%**, and the best accuracy of 1s prediction of **83.55%**. The Ensemble model was created by averaging logistic regression, boosted trees, boosted forest, and Naive Bayes Model making it robust in nature. Significantly, as each model used differs from each other, Ensemble reduces the variance in the predictions leading to improved predictive performance.
+
 
 
 ### **Conclusions**
