@@ -18,8 +18,13 @@ Default in financial systems indirectly impacts the country’s economy as banks
 
 #### _**Best Model : Ensemble Model 1**_
 
+
+* **ROC Curve**
+
 ![image](https://user-images.githubusercontent.com/70052374/226123745-6fd00b26-24fc-44ba-824a-ae18b52a35ab.png)
 
+
+* **Evaluation Metrics**
 
 ![image](https://user-images.githubusercontent.com/70052374/226123800-04171255-866d-4861-8bb9-e1c6f81c6931.png)
 
